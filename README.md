@@ -38,10 +38,10 @@ A full-stack financial analytics pipeline combining **Golang**, **Rust**, **SQL*
 
 ## Key Screenshots & Visualizations  
 
-![Candlestick Chart](daily-candlestick-chart-with-vol.png)  
-![Moving Averages](close-price_moving-avg.png)  
-![Model Predictions](actual-vs-predicted-stacked.png)  
-![Rolling Correlations](30-day-rolling-correlation_close-price-vs-volume.png)  
+![Candlestick Chart](plots/daily-candlestick-chart-with-vol.png)  
+![Moving Averages](plots/close-price_moving-avg.png)  
+![Model Predictions](plots/actual-vs-predicted-stacked.png)  
+![Rolling Correlations](plots/30-day-rolling-correlation_close-price-vs-volume.png)  
 
 ---
 
